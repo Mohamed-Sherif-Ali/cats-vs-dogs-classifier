@@ -1,0 +1,7 @@
+tensorflow>=2.9.0
+keras>=2.9.0
+numpy>=1.21
+matplotlib>=3.5
+scikit-learn>=1.0
+pandas>=1.3
+jupyter
