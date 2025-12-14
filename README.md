@@ -407,21 +407,6 @@ Potential improvements:
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Keras Applications](https://keras.io/api/applications/)
 
----
-
-## 💼 For Your Resume
-
-**Suggested Description:**
-
-```
-Dog vs Cat Image Classifier (Deep Learning)
-• Binary classification achieving 96%+ accuracy using transfer learning
-• Dual-branch ensemble combining VGG16 + ResNet50 feature extraction
-• Implemented data augmentation and preprocessing pipeline
-• Comprehensive evaluation with confusion matrices and classification metrics
-• Tech: TensorFlow, Keras, VGG16, ResNet50, Python, Jupyter
-```
-
 
 ---
 
